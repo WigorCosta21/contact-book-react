@@ -9,21 +9,21 @@ const initialState: ContactsState = {
   items: [
     {
       id: 1,
-      fullname: "Wigor Costa",
-      email: "wigor21@hotmail.com",
-      phone: "981458529",
+      fullname: "Contato 1",
+      email: "contato1@email.com",
+      phone: "(11) 99999-9999",
     },
     {
       id: 2,
-      fullname: "Luna Sabrina",
-      email: "luna@email.com",
-      phone: "981458529",
+      fullname: "Contato 2",
+      email: "contato2@email.com",
+      phone: "(11) 99999-9999",
     },
     {
       id: 3,
-      fullname: "Luan Kesley",
-      email: "luan@email.com",
-      phone: "981458529",
+      fullname: "Contato 3",
+      email: "contato3@email.com",
+      phone: "(11) 99999-9999",
     },
   ],
 };
